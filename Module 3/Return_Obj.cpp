@@ -30,3 +30,4 @@ int main()
 
 // here is a issue. Because in this case in the function the object is created statically. So after returning the pointer the values are erased.So now need to create the object Dynamically
 // Resolving this in the next file;
+// Without using pointer you can access easily;
