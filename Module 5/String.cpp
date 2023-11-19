@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     string s; // there is no costant size in string(in c++);
-    s = "Rakib\n";
+    s = "Rakib";
     // cout<<s;
     // cout<<s.length();
     // cout<<s.size(); both function is same;
