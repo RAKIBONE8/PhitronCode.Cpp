@@ -16,6 +16,7 @@ int main()
     }
     */
 
+// reversing algorithm (using stack)
     string s;
     getline(cin, s);
     stringstream ss(s);
